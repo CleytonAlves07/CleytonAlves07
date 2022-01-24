@@ -2,8 +2,8 @@
  
  #### Welcome and here we go!
  ##
- <div width="200" height="100" border-radius:"5px">
-   <img src="https://user-images.githubusercontent.com/89083420/145870437-6e4d879f-a4b4-4b4d-ab33-10c50f52b842.gif">
+ <div  border-radius:"5px">
+   <img src="https://user-images.githubusercontent.com/89083420/145870437-6e4d879f-a4b4-4b4d-ab33-10c50f52b842.gif" width="200" height="100">
  </div>
 
 - 🔭 I’m currently working on Front-End. 🚴‍♂️ 🚀
