@@ -6,9 +6,9 @@
    <img src="https://user-images.githubusercontent.com/89083420/145870437-6e4d879f-a4b4-4b4d-ab33-10c50f52b842.gif" width="200" height="100">
  </div>
  
- <hr>
+ <hr fontWeight:"100">
  
-<div  background-color: "aqua">
+<div  backgroundColor: "aqua">
 <h5>- 🔭 I’m currently working on Back-End. 🚴‍♂️ 🚀</h5>
 <h5>- 🌱 I’m currently learning React Hooks, Docker, Phyton and TypeScript! 🧗‍♂️</h5>
 <h5>- 💚 I'm interesting in Machine Learning, IA  and Data Base</h5>
