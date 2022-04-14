@@ -13,7 +13,7 @@
                                    - 🌱 I’m currently learning React Hooks, Docker, Phyton and TypeScript! 🧗‍♂️
                                    - 💚 I'm interesting in Machine Learning, IA  and Data Base
                                    - 😄 Pronouns: He, Him. 😎
-##
+
 <div align="center">
   <a href="https://github.com/CleytonAlves07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleytonAlves07&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
