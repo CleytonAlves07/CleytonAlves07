@@ -11,15 +11,21 @@
  
 <h3>About me! 🕵️‍♂️<h3/>
 
+ <h4>
+I'm an administrator who has found two other passions: diving and programming. I love communicating with people and I've found that building multiple types of projects is just as exciting as making new connections. I have experience in the financial and commercial area and I dedicate myself every day to having more experience in the area of ​​web development with the help and fantastic support of Trybe.
  
+ </h4>
  
  ##
  
  
 <div>
+<h4>- 🧑‍🎓 Business administration graduate  at UFPE - Pernambuco, Brazil 🕴️ </h4>
+<h4>- 🛩️  Currently studying Software Development at Trybe 🪂</h4>
 <h4>- 🔭 I’m currently working on Back-End. 🚴‍♂️ 🚀</h4>
 <h4>- 🌱 I’m currently learning React Hooks, Docker, Phyton and TypeScript! 🧗‍♂️</h4>
 <h4>- 💚 I'm interesting in Machine Learning, IA  and Data Base ⭐</h4>
+<h4>- 👩‍❤️‍👨 Passions: my wife, my dog 🐕‍🦺 and diving 🤿 </h4>
 <h4>- 😄 Pronouns: He, Him. 😎</h4>
 </div>                                 
 
