@@ -9,10 +9,10 @@
  </div>
 
 
-                                           - 🔭 I’m currently working on Back-End. 🚴‍♂️ 🚀
-                                           - 🌱 I’m currently learning React Hooks, Docker, Phyton and TypeScript! 🧗‍♂️
-                                           - 💚 I'm interesting in Machine Learning, IA  and Data Base
-                                           - 😄 Pronouns: He, Him. 😎
+                                   - 🔭 I’m currently working on Back-End. 🚴‍♂️ 🚀
+                                   - 🌱 I’m currently learning React Hooks, Docker, Phyton and TypeScript! 🧗‍♂️
+                                   - 💚 I'm interesting in Machine Learning, IA  and Data Base
+                                   - 😄 Pronouns: He, Him. 😎
 ##
 <div align="center">
   <a href="https://github.com/CleytonAlves07">
