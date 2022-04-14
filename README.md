@@ -23,39 +23,21 @@
 </div>
   
   ##
+ 
+ <div>
+ <h1 align="center">Tecnologias e Ferramentas<h1/>
+ 
+<img align="center" alt="Cleyton-Js" height="30" width="40"                                          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     
+<img align="center" alt="Cleyton-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
- <table>
-  <tr>
-  <th>Tecnologias e Ferramentas<th/>
-  </tr>
-  <tr>
-        <td width="10%">
-            <img align="center" alt="Cleyton-Js" height="30" width="40"                                          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        </td>
-   
-        <td width="10%">
-            <img align="center" alt="Cleyton-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-            
-        </td>
+<img align="center" alt="Cleyton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+<img align="center" alt="Cleyton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<img align="center" alt="Cleyton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">      
  
- <td width="10%">
-            <img align="center" alt="Cleyton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        </td>
- 
- <td width="10%">
-            <img align="center" alt="Cleyton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        </td>
- 
- <td width="10%">
-            <img align="center" alt="Cleyton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        </td>
- 
- <td width="10%">
-            <img align="center" alt="Cleyton-MySql" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-        </td>
-    </tr>
- 
- </table> 
+<img align="center" alt="Cleyton-MySql" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  
 </div >
   
