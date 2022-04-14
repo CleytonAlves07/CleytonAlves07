@@ -8,7 +8,9 @@
  
  <hr font-weight:"100">
  
-<div  backgroundColor: "aqua">
+ 
+<h3>About me!<h3/>
+<div>
 <h5>- 🔭 I’m currently working on Back-End. 🚴‍♂️ 🚀</h5>
 <h5>- 🌱 I’m currently learning React Hooks, Docker, Phyton and TypeScript! 🧗‍♂️</h5>
 <h5>- 💚 I'm interesting in Machine Learning, IA  and Data Base</h5>
@@ -22,7 +24,7 @@
 </div> 
 
  <h3>I worked<h3/>
-  ##
+  
   
 <img align="center" alt="Cleyton-Js" height="30" width="40"                                          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      
