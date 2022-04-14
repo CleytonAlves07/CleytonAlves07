@@ -1,7 +1,7 @@
-<div align="center" >Hi! I'm  <strong>Cleyton Alves!</strong>  🧔🏻 🇧🇷 </div>
+<h1 align="center" >Hi! I'm  <strong>Cleyton Alves!</strong>  🧔🏻 🇧🇷 </h1>
  
-<div align="center" > <strong>Welcome and here we go!</strong></div>
- <div  border-radius:"5px" align="center">
+<h2 align="center" > <strong>Welcome and here we go!</strong></h2>
+ <div "style: border-radius:5px" align="center">
  
  
  
