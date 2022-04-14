@@ -9,7 +9,7 @@
  
  ##
  
-<h3>About me!<h3/>
+<h3>About me! 🕵️‍♂️<h3/>
 
  
  
@@ -17,10 +17,10 @@
  
  
 <div>
-<h5>- 🔭 I’m currently working on Back-End. 🚴‍♂️ 🚀</h5>
-<h5>- 🌱 I’m currently learning React Hooks, Docker, Phyton and TypeScript! 🧗‍♂️</h5>
-<h5>- 💚 I'm interesting in Machine Learning, IA  and Data Base ⭐</h5>
-<h5>- 😄 Pronouns: He, Him. 😎</h5>
+<h4>- 🔭 I’m currently working on Back-End. 🚴‍♂️ 🚀</h4>
+<h4>- 🌱 I’m currently learning React Hooks, Docker, Phyton and TypeScript! 🧗‍♂️</h4>
+<h4>- 💚 I'm interesting in Machine Learning, IA  and Data Base ⭐</h4>
+<h4>- 😄 Pronouns: He, Him. 😎</h4>
 </div>                                 
 
  ##
