@@ -9,9 +9,9 @@
  </div>
 
 
-                                                  - 🔭 I’m currently working on Front-End. 🚴‍♂️ 🚀
-                                                  - 🌱 I’m currently learning JavaScript! 🧗‍♂️
-                                                  - 😄 Pronouns: He, Him. 😎
+                                               - 🔭 I’m currently working on Front-End. 🚴‍♂️ 🚀
+                                               - 🌱 I’m currently learning JavaScript! 🧗‍♂️
+                                               - 😄 Pronouns: He, Him. 😎
 ##
 <div align="center">
   <a href="https://github.com/CleytonAlves07">
