@@ -9,8 +9,9 @@
  </div>
 
 
-                                           - 🔭 I’m currently working on Front-End. 🚴‍♂️ 🚀
-                                           - 🌱 I’m currently learning JavaScript! 🧗‍♂️
+                                           - 🔭 I’m currently working on Back-End. 🚴‍♂️ 🚀
+                                           - 🌱 I’m currently learning React Hooks, Docker, Phyton and TypeScript! 🧗‍♂️
+                                           - 💚 I'm interesting in Machine Learning, IA  and Data Base
                                            - 😄 Pronouns: He, Him. 😎
 ##
 <div align="center">
@@ -29,7 +30,7 @@
   <img align="center" alt="Cleyton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cleyton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cleyton-MySql" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
+</div aling="center">
   
   
   ##
