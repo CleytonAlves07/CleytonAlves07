@@ -1,17 +1,17 @@
-<h1 align="center" >Hi! I'm  <strong>Cleyton Alves!</strong>  🧔🏻 🇧🇷 </h1>
+<h2 align="center" >Hi! I'm  <strong>Cleyton Alves!</strong>  🧔🏻 🇧🇷 </h2>
  
-<h2 align="center" > <strong>Welcome and here we go!</strong></h2>
+<h3 align="center" > <strong>Welcome and here we go!</strong></h3>
  <div "style: border-radius:5px" align="center">
  
  
  
    <img src="https://user-images.githubusercontent.com/89083420/145870437-6e4d879f-a4b4-4b4d-ab33-10c50f52b842.gif" width="200" height="100">
  </div>
-<div>
-                                   - 🔭 I’m currently working on Back-End. 🚴‍♂️ 🚀<br>
-                                   - 🌱 I’m currently learning React Hooks, Docker, Phyton and TypeScript! 🧗‍♂️<br>
-                                   - 💚 I'm interesting in Machine Learning, IA  and Data Base<br>
-                                   - 😄 Pronouns: He, Him. 😎<br>
+<div align="center">
+                                   <h5>- 🔭 I’m currently working on Back-End. 🚴‍♂️ 🚀</h5>
+                                   <h5>- 🌱 I’m currently learning React Hooks, Docker, Phyton and TypeScript! 🧗‍♂️</h5>
+                                   <h5>- 💚 I'm interesting in Machine Learning, IA  and Data Base</h5>
+                                   <h5>- 😄 Pronouns: He, Him. 😎</h5>
 
 </div>
 
@@ -20,12 +20,9 @@
   <a href="https://github.com/CleytonAlves07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleytonAlves07&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleytonAlves07&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
-  
-  ##
- 
+</div> 
 
- <h1>I worked<h1/>
+ <h3>I worked<h3/>
   ##
   
 <img align="center" alt="Cleyton-Js" height="30" width="40"                                          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
