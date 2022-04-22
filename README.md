@@ -11,13 +11,12 @@
  
 <h3>About me! 🕵️‍♂️<h3/>
 
- <h4>
-  3 "I's"
-I'm an administrator who has found two other passions: diving and programming. 
-I love communicating with people and I've found that building multiple types of projects is just as exciting as making new connections. 
-I have experience in the financial and commercial area and I dedicate myself every day to having more experience in the area of ​​web development with the help and fantastic support of Trybe.
+  <h4>3 "I's"</h4>
+ <h4>I'm an administrator who has found two other passions: diving and programming. </h4>
+ <h4>I love communicating with people and I've found that building multiple types of projects is just as exciting as making new connections. </h4>
+ <h4>I have experience in the financial and commercial area and I dedicate myself every day to having more experience in the area of ​​web development with the help and fantastic support of Trybe. </h4>
  
- </h4>
+
  
  ##
  
