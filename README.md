@@ -95,12 +95,6 @@
  ##
   
   
- <div aling="center">
-  <img src="https://user-images.githubusercontent.com/89083420/145867561-bb8090b7-420d-4cc2-867d-51aa5dfd204c.gif" width="100" height="100">
- </div>
- 
-  
- ##
  
  
   <a href="https://www.linkedin.com/in/cleyton-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
