@@ -92,6 +92,8 @@
   
   <img align="center" alt="Cleyton-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" style="max-width: 100%;">
   
+  <img src="https://camo.githubusercontent.com/7dca196dd7adc5004b07ec192b825cd9935af42a2abe7ff06b8aff268643b6b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e736f6d6e69612d3538343962653f7374796c653d666f722d7468652d6261646765266c6f676f3d496e736f6d6e6961266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&amp;logo=Insomnia&amp;logoColor=white" style="max-width: 100%;">
+  
  ##
   
   
