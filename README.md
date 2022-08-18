@@ -92,7 +92,15 @@
   
   <img align="center" alt="Cleyton-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" style="max-width: 100%;">
   
+  ##
+  
   <img src="https://camo.githubusercontent.com/7dca196dd7adc5004b07ec192b825cd9935af42a2abe7ff06b8aff268643b6b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e736f6d6e69612d3538343962653f7374796c653d666f722d7468652d6261646765266c6f676f3d496e736f6d6e6961266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&amp;logo=Insomnia&amp;logoColor=white" style="max-width: 100%;">
+  
+  <img src="https://camo.githubusercontent.com/4a1038affbb2653ec140936555b3714ddc322526be8567b489e8423a795dea18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531453f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" style="max-width: 100%;">
+  
+  <img src="https://camo.githubusercontent.com/55037e0ff8e2c9df84ad631c3d0443a7316776ede7459a5872ccb336d7df2781/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white" style="max-width: 100%;">
+  
+  <img src="https://camo.githubusercontent.com/529f3db66dcea87286a50a8bbb379acc5b6485805215e4cce5365aa43b7ddaca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d3030353243433f7374796c653d666f722d7468652d6261646765266c6f676f3d7472656c6c6f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&amp;logo=trello&amp;logoColor=white" style="max-width: 100%;">
   
  ##
   
