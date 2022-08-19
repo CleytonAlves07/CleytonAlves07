@@ -6,9 +6,7 @@
    <img src="https://user-images.githubusercontent.com/89083420/145870437-6e4d879f-a4b4-4b4d-ab33-10c50f52b842.gif" width="200" height="100">
  </div>
  
- ##
- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/db7051120f444693385dc6be9fd268aabeaf1de6b9c71a28d37e86447b994797/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4961676f5046657272656972612f636f756e742e737667"><img src="https://camo.githubusercontent.com/db7051120f444693385dc6be9fd268aabeaf1de6b9c71a28d37e86447b994797/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4961676f5046657272656972612f636f756e742e737667" alt="Visitor Count" data-canonical-src="https://profile-counter.glitch.me/CleytonAlves07/count.svg" style="max-width: 100%;"></a>
- 
+
  ##
  
 <h3>About me! 🕵️‍♂️<h3/>
