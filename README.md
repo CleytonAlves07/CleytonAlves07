@@ -7,8 +7,7 @@
  </div>
  
  ##
- 
- <img src="https://camo.githubusercontent.com/db7051120f444693385dc6be9fd268aabeaf1de6b9c71a28d37e86447b994797/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4961676f5046657272656972612f636f756e742e737667" alt="Visitor Count" data-canonical-src="https://profile-counter.glitch.me/CleytonAlves07/count.svg" style="max-width: 100%;">
+ <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/db7051120f444693385dc6be9fd268aabeaf1de6b9c71a28d37e86447b994797/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4961676f5046657272656972612f636f756e742e737667"><img src="https://camo.githubusercontent.com/db7051120f444693385dc6be9fd268aabeaf1de6b9c71a28d37e86447b994797/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4961676f5046657272656972612f636f756e742e737667" alt="Visitor Count" data-canonical-src="https://profile-counter.glitch.me/CleytonAlves07/count.svg" style="max-width: 100%;"></a>
  
  ##
  
