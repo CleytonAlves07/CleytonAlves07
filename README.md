@@ -25,7 +25,7 @@
 <h4>- 🧑‍🎓 Business administration graduate  at UFPE - Pernambuco, Brazil 🕴️ </h4>
 <h4>- 🛩️  Currently studying Software Development at Trybe 🪂</h4>
 <h4>- 🔭 I’m currently working on Computer science. 🚴‍♂️ 🚀</h4>
-<h4>- 🌱 I’m currently learning React Hooks, Docker, Phyton and TypeScript! 🧗‍♂️</h4>
+<h4>- 🌱 I’m currently learning React Hooks, Docker, Python and TypeScript! 🧗‍♂️</h4>
 <h4>- 💚 I'm interesting in Machine Learning, IA  and Data Base ⭐</h4>
 <h4>- 👩‍❤️‍👨 Passions: my wife, my dog 🐕‍🦺 and diving 🤿 </h4>
 <h4>- 😄 Pronouns: He, Him. 😎</h4>
