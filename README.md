@@ -9,7 +9,7 @@
 
  ##
  
-<h3>About me! 🕵️‍♂️<h3/>
+<h3>Sobre mim! 🕵️‍♂️<h3/>
 
  <h4>Sou um administrador que encontrou duas outras paixões: mergulhar e programar. </h4>
  <h4>Adoro me comunicar com as pessoas e descobri que construir vários tipos de projetos é tão empolgante quanto fazer novas conexões. </h4>
@@ -54,7 +54,6 @@
 
 <img align="center" alt="Cleyton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">      
  
-<img align="center" alt="Cleyton-MySql" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   </div>
   
   ##
@@ -69,7 +68,7 @@
   
   <img align="center" alt="Cleyton-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="max-width: 100%;">
   
-  <img align="center" alt="Heitor-sequelize" height="40" width="30" src="https://camo.githubusercontent.com/a2ef2bb116ae565bb254cbb11194dae357eb7582a8babeab337bd3932687d63d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f73657175656c697a652f73657175656c697a652d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Cleyton-sequelize" height="40" width="30" src="https://camo.githubusercontent.com/a2ef2bb116ae565bb254cbb11194dae357eb7582a8babeab337bd3932687d63d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f73657175656c697a652f73657175656c697a652d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="max-width: 100%;">
   
  ##
  <img src="https://camo.githubusercontent.com/c41177ea9c7aca7a97ce99774bdb986ef6ce2ce8023e91b8a9be41b4b04535a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436861692d4133303830323f7374796c653d666f722d7468652d6261646765266c6f676f3d43686169266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Chai-A30802?style=for-the-badge&amp;logo=Chai&amp;logoColor=white" style="max-width: 100%;">
