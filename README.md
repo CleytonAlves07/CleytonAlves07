@@ -1,6 +1,6 @@
 <h2 align="center" >Hi! I'm  <strong>Cleyton Alves!</strong>  🧔🏻 🇧🇷 </h2>
  
-<h3 align="center" > <strong>Welcome and here we go!</strong></h3>
+<h3 align="center" > <strong>Bem vindo e vamos lá!</strong></h3>
 
  <div "style: border-radius:5px" align="center">
    <img src="https://user-images.githubusercontent.com/89083420/145870437-6e4d879f-a4b4-4b4d-ab33-10c50f52b842.gif" width="200" height="100">
@@ -11,10 +11,9 @@
  
 <h3>About me! 🕵️‍♂️<h3/>
 
-  <h4>3 "I's"</h4>
- <h4>I'm an administrator who has found two other passions: diving and programming. </h4>
- <h4>I love communicating with people and I've found that building multiple types of projects is just as exciting as making new connections. </h4>
- <h4>I have experience in the financial and commercial area and I dedicate myself every day to having more experience in the area of ​​web development with the help and fantastic support of Trybe. </h4>
+ <h4>Sou um administrador que encontrou duas outras paixões: mergulhar e programar. </h4>
+ <h4>Adoro me comunicar com as pessoas e descobri que construir vários tipos de projetos é tão empolgante quanto fazer novas conexões. </h4>
+ <h4>Tenho experiência na área financeira e comercial e me dedico a cada dia para ter mais experiência na área de desenvolvimento web com a ajuda e suporte fantástico da Trybe. </h4>
  
 
  
@@ -22,13 +21,13 @@
  
  
 <div>
-<h4>- 🧑‍🎓 Business administration graduate  at UFPE - Pernambuco, Brazil 🕴️ </h4>
-<h4>- 🛩️  Currently studying Software Development at Trybe 🪂</h4>
-<h4>- 🔭 I’m currently working on Computer science. 🚴‍♂️ 🚀</h4>
-<h4>- 🌱 I’m currently learning React Hooks, Docker, Python and TypeScript! 🧗‍♂️</h4>
-<h4>- 💚 I'm interesting in Machine Learning, IA  and Data Base ⭐</h4>
-<h4>- 👩‍❤️‍👨 Passions: my wife, my dog 🐕‍🦺 and diving 🤿 </h4>
-<h4>- 😄 Pronouns: He, Him. 😎</h4>
+<h4>- 🧑‍🎓 Graduado em Administração de Empresas pela UFPE - Pernambuco, Brasil 🕴️ </h4>
+<h4>- 🛩️  Atualmente cursando Desenvolvimento de Software na Trybe 🪂</h4>
+<h4>- 🔭 Atualmente estou me aprofundando em Ciência da Computação. 🚴‍♂️ 🚀</h4>
+<h4>- 🌱 Estou sempre estudando um pouco mais sobre React Hooks, Docker, Python e TypeScript! 🧗‍♂️</h4>
+<h4>- 💚 Tenho interesse em Machine Learning, IA e Banco de Dados ⭐</h4>
+<h4>- 👩‍❤️‍👨 Paixões: minha esposa, meu cachorro 🐕‍🦺 e mergulho 🤿 </h4>
+<h4>- 😄 Pronomes: ele, ele. 😎</h4>
 </div>                                 
 
  ##
@@ -42,12 +41,12 @@
  
  ##
  
- <h3>I worked 🧑‍💻 ... <h3/>
+ <h3>Já trabalhei com 🧑‍💻 ... <h3/>
 
   
   ##
   
-  <h4>Languages 🎯 </h4>
+  <h4>Linguagens 🎯 </h4>
  <div> 
 <img align="center" alt="Cleyton-Js" height="30" width="40"                                          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      
@@ -60,7 +59,7 @@
   
   ##
  
-   <h4>Libraries ⚛️ </h4>
+   <h4>Bibliotecas ⚛️ </h4>
    <div>
   <img align="center" alt="Cleyton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
   
@@ -102,7 +101,7 @@
  ##
   
   
-  <h4>Tools 🛠️ </h4>
+  <h4>Ferramentas 🛠️ </h4>
   <div>
   <img align="center" alt="Cleyton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
