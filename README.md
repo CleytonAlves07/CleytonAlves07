@@ -1,6 +1,6 @@
-<h2 align="center" >Hi! I'm  <strong>Cleyton Alves!</strong>  🧔🏻 🇧🇷 </h2>
+<h2 align="center" >Olá eu sou <strong>Cleyton Alves!</strong>  🧔🏻 🇧🇷 </h2>
  
-<h3 align="center" > <strong>Bem vindo e vamos lá!</strong></h3>
+<h3 align="center" > <strong>Bem-vindo e vamos lá!</strong></h3>
 
  <div "style: border-radius:5px" align="center">
    <img src="https://user-images.githubusercontent.com/89083420/145870437-6e4d879f-a4b4-4b4d-ab33-10c50f52b842.gif" width="200" height="100">
