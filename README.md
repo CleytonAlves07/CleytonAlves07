@@ -1,6 +1,6 @@
 <h2 align="center" >Olá, eu sou <strong>Cleyton Alves!</strong>  🧔🏻 </h2>
 
-<h3 align="center">Um apaixonado 💚 Cientista de Dados 🧑‍💻 do Brasil 🇧🇷</h3>
+<h3 align="center">Um apaixonado 💚 Full Stack 🧑‍💻 do Brasil 🇧🇷</h3>
  
 <h3 align="center" > <strong>Bem-vindo e vamos lá 🚀!</strong></h3>
 
