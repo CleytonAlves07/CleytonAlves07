@@ -61,6 +61,9 @@
             <img src="https://skillicons.dev/icons?i=vite" />
         </a>
         <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=nextjs" />
+        </a>
+        <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=vscode" />
         </a>
     </p>
