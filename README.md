@@ -1,19 +1,18 @@
-<h2 align="center" >Olá, eu sou <strong>Cleyton Alves!</strong>  🧔🏻 </h2>
+<h2 align="center">Olá, eu sou <strong>Cleyton Alves!</strong> 🧔🏻 </h2>
 
 <h3 align="center">Web Full Stack</h3>
  
-<h3 align="center" > <strong>Bem-vindo e vamos lá 🚀!</strong></h3>
+<h3 align="center"><strong>Bem-vindo e vamos lá 🚀!</strong></h3>
 
- <div "style: border-radius:5px" align="center">
+<div style="border-radius:5px" align="center">
    <img src="https://user-images.githubusercontent.com/89083420/145870437-6e4d879f-a4b4-4b4d-ab33-10c50f52b842.gif" width="200" height="100">
- </div>
- 
+</div>
+
 <h3 align="center">Conecte-se comigo 😎:</h3>
 <div align="center">
-<p align="center">
-
-<a href="https://discord.gg/0598" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0598" height="50" width="50" /></a>
- <a href="https://github.com/CleytonAlves07">
+    <p align="center">
+        <a href="https://discord.gg/0598" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0598" height="50" width="50" /></a>
+        <a href="https://github.com/CleytonAlves07">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="50" height="50" />
         </a>
         <a href="https://www.linkedin.com/in/cleyton-alves/">
@@ -25,120 +24,142 @@
         <a href="https://wa.me/5581996687008">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="50" height="50" />
         </a>
- 
-</p>
+    </p>
 </div>
 
 <h2 align="center">Tecnologias 🎯 e Ferramentas 🛠️:</h2>
-
 
 <div align="center">
     <p>
         <a href="https://www.python.org">
             <img src="https://skillicons.dev/icons?i=py" />
+            <br>Python
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=js" />
+            <br>JavaScript
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=ts" />
+            <br>TypeScript
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=nodejs" />
+            <br>Node.js
         </a>
     </p>
     <p>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=react" />
+            <br>React
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=bootstrap" />
+            <br>Bootstrap
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=tailwind" />
+            <br>Tailwind CSS
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=vite" />
+            <br>Vite
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=nextjs" />
+            <br>Next.js
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=vscode" />
+            <br>VS Code
         </a>
     </p>
     <p>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=bash" />
+            <br>Bash
         </a>
         <a href="https://github.com">
             <img src="https://skillicons.dev/icons?i=github" />
+            <br>GitHub
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=git" />
+            <br>Git
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=html" />
+            <br>HTML
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=css" />
+            <br>CSS
         </a>
         <a href="https://aws.amazon.com/pt/">
             <img src="https://skillicons.dev/icons?i=docker" />
+            <br>Docker
         </a>
-         <a href="https://skillicons.dev">
+        <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=linux" />
+            <br>Linux
         </a>
     </p>
     <p>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=sqlite" />
+            <br>SQLite
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=mysql" />
+            <br>MySQL
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=mongodb" />
+            <br>MongoDB
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=postgres" />
+            <br>PostgreSQL
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=prisma" />
+            <br>Prisma
         </a>
-         <a href="https://skillicons.dev">
+        <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=sequelize" />
+            <br>Sequelize
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=heroku" />
+            <br>Heroku
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=express" />
+            <br>Express.js
         </a>
         <a href="https://docs.djangoproject.com/en/4.1/">
             <img src="https://skillicons.dev/icons?i=django" />
+            <br>Django
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=flask" />
+            <br>Flask
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=selenium" />
+            <br>Selenium
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=jest" />
+            <br>Jest
         </a>
     </p>
 </div>
+
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleytonalves07&show_icons=true&locale=en&layout=compact" alt="cleytonalves07" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleytonalves07&show_icons=true&locale=en&layout=compact" alt="cleytonalves07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleytonalves07&show_icons=true&locale=en" alt="cleytonalves07" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleytonalves07&show_icons=true&locale=en" alt="cleytonalves07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cleytonalves07&" alt="cleytonalves07" /></p>
-
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cleytonalves07&" alt="cleytonalves07" /></p>
 </div>
-
-
-##
-
-
