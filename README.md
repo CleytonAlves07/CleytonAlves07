@@ -8,6 +8,20 @@
    <img src="https://user-images.githubusercontent.com/89083420/145870437-6e4d879f-a4b4-4b4d-ab33-10c50f52b842.gif" width="200" height="100">
 </div>
 
+## Sobre Mim
+
+- 🎓 **Formação Acadêmica:**
+  - Graduado em **Administração** pela Universidade Federal de Pernambuco (UFPE).
+  - Cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Maurício de Nassau.
+
+- 💼 **Experiência Profissional:**
+  - Desenvolvimento de aplicações web utilizando **PHP** e **Laravel**.
+  - Criação de interfaces dinâmicas com **TypeScript** e **React**.
+
+- 📚 **Atualmente Estudando:**
+  - **Java** e **Spring Boot** para aprimorar habilidades em back-end.
+  - **Angular** para desenvolvimento de front-end moderno.
+
 <h3 align="center">Conecte-se comigo 😎:</h3>
 <div align="center">
 <p align="center">
